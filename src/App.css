@@ -1,0 +1,36 @@
+/* body{
+  text-align: center;
+} */
+
+.productcontainer{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 75px;
+  margin-left: 150px;
+  
+}
+  
+.productcontainer >.link {
+  text-align: center;
+  width: 300px;
+  box-shadow: 0 0 10px #4c3a3a;
+  margin: 10px;
+  
+}
+.productcontainer>.link:hover
+{
+  background-color: lightgray;
+
+}
+.Productscontainer{
+  
+  text-align: center; 
+  
+}
+
+.Home>h1{
+  text-align: center; 
+  font-size: 150px;
+}
+
+
